@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpm75
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning microbiome analysis
 - 💞️ I’m looking to collaborate on Data Analysis and recommendation systems
 - 📫 How to reach me juan@placermendoza.es
 
