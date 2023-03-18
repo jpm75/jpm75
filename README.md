@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jpm75
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning microbiome analysis
-- 💞️ I’m looking to collaborate on Data Analysis and recommendation systems
+- 👀 I’m a ML Engineer.
+- 🌱 I’m currently performing microbiome analysis using ML.
+- 💞️ I’m looking to collaborate on Data Analysis, recommendation systems, and DNN's black box explainability through ML analyis.
 - 📫 How to reach me juan@placermendoza.es
 
 <!---
