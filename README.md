@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpm75
 - 👀 I’m a ML Engineer.
-- 🌱 I’m currently performing genomi and microbiome analysis, and health predictions using ML.
+- 🌱 I’m currently performing genomics and microbiome analysis, and health predictions using ML.
 - 💞️ I’m looking to collaborate on Data Analysis, health prediction, and DNN's black box explainability through ML analyis.
 - 📫 How to reach me juan@placermendoza.es
 
